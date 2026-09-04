@@ -1,0 +1,7 @@
+{
+  "description": "Verified symbol-level TS/JS context, references, shared cache, and project maps.",
+  "displayName": "ContextBase",
+  "name": "contextbase",
+  "schemaVersion": "contextbase.local.request/1.0",
+  "version": "v0.1.0"
+}

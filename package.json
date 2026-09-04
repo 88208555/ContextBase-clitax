@@ -1,0 +1,31 @@
+{
+  "bin": {
+    "cli-contextbase": "./cli.mjs"
+  },
+  "dependencies": {
+    "cli-aimlock": "7.0.34",
+    "typescript-language-service": "npm:typescript@5.9.3"
+  },
+  "description": "ContextBase local skill for verified symbol-level code supply, shared cache, references, and project maps.",
+  "files": [
+    "cli.mjs",
+    "installer.mjs",
+    "contextbase-fs.mjs",
+    "contextbase-cache.mjs",
+    "contextbase-typescript.mjs",
+    "contextbase-map.mjs",
+    "contextbase-runner.mjs",
+    "README.md",
+    "skill/SKILL.md",
+    "skill/skill.json"
+  ],
+  "license": "UNLICENSED",
+  "name": "cli-contextbase",
+  "private": false,
+  "type": "module",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/88208555/ContextBase-clitax.git"
+  }
+}
